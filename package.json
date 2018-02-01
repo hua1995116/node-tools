@@ -1,0 +1,15 @@
+{
+  "name": "tools",
+  "version": "1.0.0",
+  "description": "a Node tools ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cout": "node js-count.js"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "huayifeng <qiufenghyf@163.com>",
+  "license": "ISC"
+}
