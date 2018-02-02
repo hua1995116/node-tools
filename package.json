@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "a Node tools ",
   "main": "index.js",
+  "bin": {
+    "count": "./js-count.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "cout": "node js-count.js"
