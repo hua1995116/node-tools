@@ -55,5 +55,5 @@ function readCssLine(file) {
 
 getFileName(root);
 
-console.log(`js行数为：${filesJsLine} \nj行数为(去空行)：${filesJsLineNoBlank}`);
-console.log(`js行数为：${filesCssLine} \nj行数为(去空行)：${filesCssLineNoBlank}`);
+console.log(`js行数为：${filesJsLine} \njs行数为(去空行)：${filesJsLineNoBlank}`);
+console.log(`css行数为：${filesCssLine} \ncss行数为(去空行)：${filesCssLineNoBlank}`);
