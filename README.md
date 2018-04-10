@@ -15,3 +15,12 @@ $ count
 
 ## global 
 
+```
+$ npm install cnode-tools -g
+
+or 
+
+$ cnpm i cnode-tools -g
+
+$ count 
+```

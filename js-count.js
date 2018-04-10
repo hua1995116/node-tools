@@ -55,5 +55,5 @@ function readCssLine(file) {
 
 getFileName(root);
 
-console.log(`js行数为：${filesJsLine} \njs行数为(去空行)：${filesJsLineNoBlank}`);
-console.log(`css行数为：${filesCssLine} \ncss行数为(去空行)：${filesCssLineNoBlank}`);
+console.log(`js/jsx lines：${filesJsLine} \n(rm empty lines)：${filesJsLineNoBlank}`);
+console.log(`css/sass/less/stylus lines：${filesCssLine} \n(rm empty lines)：${filesCssLineNoBlank}`);
