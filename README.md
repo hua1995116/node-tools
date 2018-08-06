@@ -23,4 +23,7 @@ or
 $ cnpm i cnode-tools -g
 
 $ count 
+
+$ count -f a,b,c -i a,b,c  (-f,--file,  -i, --ignore)
+
 ```
